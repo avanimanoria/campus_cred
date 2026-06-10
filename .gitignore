@@ -1,0 +1,29 @@
+# Root monorepo ignores
+
+# Dependencies
+backend/node_modules
+frontend/node_modules
+
+# Next.js
+frontend/.next
+frontend/out
+
+# Python leftovers
+backend/ven
+backend/venv
+backend/__pycache__
+
+# Env files
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime uploads
+backend/uploads

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../aps/actiarc"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "clubverse"
+	}
+}
