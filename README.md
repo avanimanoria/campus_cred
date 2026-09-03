@@ -57,7 +57,7 @@ Campus Cred centralizes these workflows in one role-aware platform.
 |---|---|
 | Frontend | Next.js, React, TypeScript, Tailwind CSS |
 | Backend | Node.js, Express.js, JavaScript |
-| Database | SQL relational database, schema scripts, migration support |
+| Database | PostgreSQL, schema scripts, migration support |
 | Authentication | Firebase / Google Sign-In integration |
 | API | REST APIs |
 | Tooling | npm, ESLint, Git, GitHub |
@@ -291,7 +291,7 @@ Example format:
 ## Resume Description
 
 **Campus Cred — Role-Based College Activity and Event Management Platform**  
-Built a full-stack platform for college event registration, activity-credit tracking, and administrative workflows using Next.js, Node.js, SQL, Firebase authentication, and REST APIs. Designed role-specific workflows for students, faculty, proctors, HODs, and administrators.
+Built a full-stack platform for college event registration, activity-credit tracking, and administrative workflows using Next.js, Node.js, PostgreSQL, Firebase authentication, and REST APIs. Designed role-specific workflows for students, faculty, proctors, HODs, and administrators.
 
 ---
 
